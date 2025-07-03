@@ -1,10 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta http-equiv="refresh" content="0;url=https://lakns.com/link?z=9425590&var=teleads&ymid=click123">
+    <meta http-equiv="refresh" content="0; URL='https://lakns.com/link?z=9425590&var=telegrambot&ymid=dooredir'" />
     <title>Redirecting...</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        text-align: center;
+        padding-top: 50px;
+        background-color: #f9f9f9;
+      }
+      a {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 12px 20px;
+        background-color: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: bold;
+      }
+    </style>
   </head>
   <body>
-    <p>Redirecting to offer...</p>
+    <h2>Redirecting you to a reward page...</h2>
+    <p>If it doesn't open, tap the button below:</p>
+    <a href="https://lakns.com/link?z=9425590&var=telegrambot&ymid=dooredir" target="_blank">Open Offer</a>
   </body>
 </html>
